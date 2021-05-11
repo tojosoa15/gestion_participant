@@ -37,4 +37,4 @@ Remarque: 	- J'ai utilisé la framework Laravel 7
       		- Mysql pour la base de données
       		- jquery pour la partie JS
       		- Bootstrap pour la partie CSS
-      		- Et aussi la librairies Datatable de laravel.
+      		- Et aussi la librairies Datatable de laravel..
